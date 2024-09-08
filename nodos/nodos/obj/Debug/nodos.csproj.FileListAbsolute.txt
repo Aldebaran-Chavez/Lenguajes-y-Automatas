@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\nodos\nodos\bin\Debug\nodos.exe.config
+C:\Users\Dell\source\repos\nodos\nodos\bin\Debug\nodos.exe
+C:\Users\Dell\source\repos\nodos\nodos\bin\Debug\nodos.pdb
+C:\Users\Dell\source\repos\nodos\nodos\obj\Debug\nodos.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\nodos\nodos\obj\Debug\nodos.Form1.resources
+C:\Users\Dell\source\repos\nodos\nodos\obj\Debug\nodos.Properties.Resources.resources
+C:\Users\Dell\source\repos\nodos\nodos\obj\Debug\nodos.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\nodos\nodos\obj\Debug\nodos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\nodos\nodos\obj\Debug\nodos.exe
+C:\Users\Dell\source\repos\nodos\nodos\obj\Debug\nodos.pdb
